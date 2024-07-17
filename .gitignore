@@ -1,0 +1,19 @@
+# Node modules
+node_modules
+
+# Log files
+logs
+*.log
+npm-debug.log*
+
+# Vite build output
+dist
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+/.idea
+/node_modules
